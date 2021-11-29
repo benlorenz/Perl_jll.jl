@@ -1,107 +1,107 @@
 [[Perl]]
 arch = "aarch64"
-git-tree-sha1 = "7a2b6646e292d5ddb83cf68e301d62482ed3b97c"
+git-tree-sha1 = "8257426b8a82bd4579001e45f2fce5df066275a1"
 os = "macos"
 
     [[Perl.download]]
-    sha256 = "72394e32cb046b04f223a1744ef96fb185806e0b7d5a408e38db8efc2f68b510"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "23f7d994e524fd73cf6079092e951290fdc3bb7daa38eb66baa9c9ce765ae2a9"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.aarch64-apple-darwin.tar.gz"
 [[Perl]]
 arch = "aarch64"
-git-tree-sha1 = "6607f9a94311644152078a66600a5ae45d210b65"
+git-tree-sha1 = "57728c4ebfea8bae72654dd593676263938b879a"
 libc = "glibc"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "b9061fdde766bf722c70afc1ef4b60cfc9ebbbcb745a8c654f8ff3e84b237563"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "4782f9d94c03e42b452051b8c877bf38a8f13635d96745eab72c38e452c0e3c3"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.aarch64-linux-gnu.tar.gz"
 [[Perl]]
 arch = "aarch64"
-git-tree-sha1 = "d0c654e587237899b3e5ff60622caf5eee9ac0f2"
+git-tree-sha1 = "118030a16960131713b836d1b9aa5289df7e0b95"
 libc = "musl"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "df3e5629aa7fd2fc590679bf5b0443c2884d915b1149f2b94ca6ad22892ea4a0"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.aarch64-linux-musl.tar.gz"
+    sha256 = "0a0c5c7b92af182789e3b8baa19b6aedb082de8d288108f3a4982b2b26f0b087"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.aarch64-linux-musl.tar.gz"
 [[Perl]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "70ac3189591607499faa7c772f281523b175bd7b"
+git-tree-sha1 = "1329d1ec0dd26a45c8fb1fea14d20c78b7c0bbcd"
 libc = "glibc"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "0fcf53a8f1e81d6c890b6deafb9a1c551bce829a6d8454de9ae239ff22d371e5"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ae5b296024cbcdb6366a40453d828ef150f5c2eab979511d11bb08acbd884ff0"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.armv7l-linux-gnueabihf.tar.gz"
 [[Perl]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "92c0a8c1ab132830ddb2d135ac10a50059387af3"
+git-tree-sha1 = "6b880a51abb19304b97ca2e6efaaa851215b4648"
 libc = "musl"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "f3d8eb69ffda1dcccd98aeabdc0bceb7bcb4c47917301d09a9c5d98ded8353c6"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c444c85711091424088abc2f9226d7c93adeb10d1bcf3088f1809dcaddcd3f81"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.armv7l-linux-musleabihf.tar.gz"
 [[Perl]]
 arch = "i686"
-git-tree-sha1 = "431b9f10d89b53e735d95b3b5cd06dc21e1a70bb"
+git-tree-sha1 = "dd5bc8b66a00f5b38b4fa95a5e492a1177b96e20"
 libc = "glibc"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "1df9bb799ef295ee372a03f5d7bf85c544ad15909717fbc0e274a950dfc3db7a"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.i686-linux-gnu.tar.gz"
+    sha256 = "6d92c5cf91e5f1b97129b5fa65aceb8abfd2855f45acd91a42db5cd6deae607e"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.i686-linux-gnu.tar.gz"
 [[Perl]]
 arch = "i686"
-git-tree-sha1 = "277164a2e2fe182e591b64fdef32734565128830"
+git-tree-sha1 = "815953d4a26ebf269cb1811e2ffd05dc32c31a3d"
 libc = "musl"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "cfea43bdfe2916896548af5fc0b278e4c0880a2f7fe510a4b072cd6212101a4c"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.i686-linux-musl.tar.gz"
+    sha256 = "0b879758dc0eee5c35afa00838771f99bd6054390c9c7bb36286d104051c55c4"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.i686-linux-musl.tar.gz"
 [[Perl]]
 arch = "powerpc64le"
-git-tree-sha1 = "e8d9ac7fc6b5a7a00113f663f0ceb1c95fd2ade6"
+git-tree-sha1 = "d6cb13993b2f773427dfa26252070a529d437f44"
 libc = "glibc"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "34d88b29dd379b52b6532328cf94c1446ec712aec74d5fe1ece9fe8ec98c024d"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "3e141103eaa22f8dcf0046b884d54278edcaf31ecd56f8ef9d0b261fb86e77a2"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.powerpc64le-linux-gnu.tar.gz"
 [[Perl]]
 arch = "x86_64"
-git-tree-sha1 = "332f1a3a8ee518144a24d931b701155be6d910a2"
+git-tree-sha1 = "24bb99ab74ebd28b9372e15bfd701835dff50074"
 os = "macos"
 
     [[Perl.download]]
-    sha256 = "cbe6bcf26e48b4c005fed0967b26c1608e8cd4f168a337523654fd61ce4e4976"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "3633fbed912db087b7acfbd0bd6c74c3d75911daa73a8e3eddb8115593f36ace"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.x86_64-apple-darwin.tar.gz"
 [[Perl]]
 arch = "x86_64"
-git-tree-sha1 = "3d81c0593e65a5139e1f7ed3cb89c818325a9022"
+git-tree-sha1 = "c40381d447012fe8feaf450aff0fa06b1b3a1cbf"
 libc = "glibc"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "663173dbf8ce8b0db973c19320388226c3377b030214227f770d0e4f4d19c3d5"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "ee73aa9b08c393a1fe241088bcd86b1423cf1e3b883b7cd6e6337841be4abc5d"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.x86_64-linux-gnu.tar.gz"
 [[Perl]]
 arch = "x86_64"
-git-tree-sha1 = "2ce2efc60a381632ba1c73444560a3eddc470d79"
+git-tree-sha1 = "341d1932fca1c5053e16e8ec9263553b4e272517"
 libc = "musl"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "ee58ce7064948860f8a1bbf83b89e2651a031d33a8493d305c6232fe3492bdc3"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.x86_64-linux-musl.tar.gz"
+    sha256 = "747c0d0d9109a51977895263d18f213528b1fa7e14150ad76c5ec577638848f0"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.x86_64-linux-musl.tar.gz"
 [[Perl]]
 arch = "x86_64"
-git-tree-sha1 = "a0228e68876c6a125252ea09d4241049380c1752"
+git-tree-sha1 = "b5b9da43c103fcb8084339645d37e4e7e79e96bc"
 os = "freebsd"
 
     [[Perl.download]]
-    sha256 = "fe12e3f122006ae3ba574b509afc91c25ec10b4c64f00fd083e3b7e0f91ce840"
-    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+0/Perl.v5.34.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "524a98ebbc8886ad7f0995839431692c5694ea49cf1e7a0096ed45036126f5e4"
+    url = "https://github.com/benlorenz/Perl_jll.jl/releases/download/Perl-v5.34.0+1/Perl.v5.34.0.x86_64-unknown-freebsd.tar.gz"
